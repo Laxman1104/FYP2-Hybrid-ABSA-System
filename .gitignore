@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model files
+models/
+*.pkl
+
+# Power BI files
+*.pbix
+*.pbit
+
+# PDF files
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
