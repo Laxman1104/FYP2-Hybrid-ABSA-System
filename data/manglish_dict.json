@@ -66,13 +66,15 @@
         "lembap": "slow",
         "semuanya": "everyone",
         "agak": "quite",
+        "agk": "quite",
         "lantai": "floor",
         "padu": "awesome",
         "mau": "want",
         "langsung": "at all",
         "lgsng": "at all",
         "mslh": "problem",
-        "mantap": "excellent"
+        "mantap": "excellent",
+        "kedia": "shop"
     },
     "noise_particles": [
         "lah",
