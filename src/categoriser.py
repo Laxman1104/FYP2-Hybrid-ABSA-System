@@ -96,7 +96,7 @@ if os.path.exists(_FOOD_TERMS_PATH):
 _ANCHOR_GROUPS = {
     "food":     ["food", "meal", "dish", "taste", "drink"],
     "service":  ["service", "staff", "waiter", "waitress", "management"],
-    "ambiance": ["ambiance", "atmosphere", "place", "cleanliness", "vibe"],
+    "ambiance": ["ambiance", "atmosphere", "place", "cleanliness", "vibe","shop"],
     "price":    ["price", "cost", "value", "money"],
     "overall":  ["overall", "experience", "visit"],
 }
